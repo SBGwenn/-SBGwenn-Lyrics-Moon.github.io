@@ -1,5 +1,5 @@
 # **Moon**
-## **Lyrics**
+> ## **Lyrics**
 Sa’n ka punta to the moon (moon)
 
 Road trip vroom vroom
@@ -98,7 +98,6 @@ Kailangan kong makatiyak bago magka-edad ‘di na ‘ko taghirap
 
 Alam kong marami ang nakamasid (woh)
 
-
 Dama ko marami ang naka-abang (weh)
 
 Kung ano ‘yung mga kaya kong gawin (hey)
@@ -142,4 +141,5 @@ Bawal ang tus at peke sa byahe
 
 Kung isa ka d’yan ika’y bumaba (woh)
 
+---
 [resources](https://www.google.com/search?q=nik+makino+moon&ei=R7l8Y-n3KqW22roPo96o6AQ&ved=2ahUKEwjn1uW738H7AhXXhVYBHcOTDU0QyNoBKAB6BAgLEAA&uact=5&oq=moon+lyrics&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICAAQsQMQkQIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CQgAEAcQHhCwAzoJCAAQBRAeELADOgkIABAIEB4QsAM6BQgAEJECOgcILhDUAhBDOgsIABCABBCxAxCDAToICC4QgAQQsQM6BAgAEEM6CAgAEIAEELEDOg0ILhCDARDUAhCxAxBDOgoIABCxAxCDARBDOgcIABCxAxBDOgQILhBDOg0ILhCxAxCDARDUAhBDOgoILhCxAxCDARBDOgsIABCxAxCDARCRAjoICC4QsQMQgARKBAhBGAFKBAhGGABQrA1Y6R1gpSBoAXAAeACAAfgCiAHREJIBBzAuOC4yLjGYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp&si=AC1wQDAtx2BbmyBmykHcHVhKaK47zuN493qbk2Dc72-Gvu6S6FxaCPV86V__i4LLwRbZXhZDBYXgLRWViL2FAdojsqG1O4CMnLtIwTl7OSmCxC8Lrudm1aY%3D&ictx=1#wptab=si:AC1wQDAmhH4WxhqkLyzXLNCgm7uMlL-cwjtGo7YoiLsJI42k1Zt3T5h9PClNLNtt0Z7jv--LtW2b34fdcff_DQPkULv7FMHQbR0ABkgMV-t6mc_xXxCEUIv5E69pdMpIMk7l7SxHaEKBYpA4uF7vo6d3eKXmIeCoIQ%3D%3D)
